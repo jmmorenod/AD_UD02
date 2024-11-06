@@ -1,0 +1,64 @@
+2024-10-07 20:41:08 INFO  Main:14 - Comienza nuestra app
+2024-10-07 20:41:08 TRACE class:17 - Entramos en el metodo createUsuario ----------
+2024-10-07 20:41:08 INFO  class:24 - Usuario creado: Usuario(id=1, nombre=Juan Manuel, email=jj@aaa.es)
+2024-10-07 20:41:08 TRACE class:25 - salimos de createUsuario -------
+2024-10-07 20:41:08 TRACE class:17 - Entramos en el metodo createUsuario ----------
+2024-10-07 20:41:08 INFO  class:24 - Usuario creado: Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com)
+2024-10-07 20:41:08 TRACE class:25 - salimos de createUsuario -------
+2024-10-07 20:41:08 TRACE class:30 - Entramos en get User------
+2024-10-07 20:41:08 DEBUG class:36 - Usuario obtenido Usuario(id=1, nombre=Juan Manuel, email=jj@aaa.es) 
+2024-10-07 20:41:08 TRACE class:38 - Salimos de get User------
+2024-10-07 20:41:08 TRACE class:30 - Entramos en get User------
+2024-10-07 20:41:08 DEBUG class:36 - Usuario obtenido Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com) 
+2024-10-07 20:41:08 TRACE class:38 - Salimos de get User------
+2024-10-07 20:41:08 TRACE class:44 - Entramos en update User------
+2024-10-07 20:41:08 INFO  class:52 - Usuario updateado: Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es)
+2024-10-07 20:41:08 TRACE class:55 - salimos en update User------
+2024-10-07 20:41:08 TRACE class:44 - Entramos en update User------
+2024-10-07 20:41:08 ERROR class:47 - Usuario con id 3 no encontrado
+2024-10-07 20:41:08 TRACE class:48 - salimos en update User------
+2024-10-07 20:41:08 TRACE class:60 - Entramos en delete user --------
+2024-10-07 20:41:08 INFO  class:66 - Usuario borrado Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com) 
+2024-10-07 20:41:08 TRACE class:69 - salimos en delete user --------
+2024-10-07 20:41:08 TRACE class:60 - Entramos en delete user --------
+2024-10-07 20:41:08 ERROR class:63 - Usuario con id 3 no encontrado
+2024-10-07 20:41:08 TRACE class:69 - salimos en delete user --------
+2024-10-07 20:41:08 TRACE class:30 - Entramos en get User------
+2024-10-07 20:41:08 DEBUG class:36 - Usuario obtenido Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es) 
+2024-10-07 20:41:08 TRACE class:38 - Salimos de get User------
+2024-10-07 20:41:08 INFO  Main:30 - VEmos el cambio Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es)
+2024-10-07 20:41:08 INFO  Main:31 - app finalizada.
+2024-10-07 20:42:55 INFO  Main:14 - Comienza nuestra app
+2024-10-07 20:42:55 TRACE class:17 - Entramos en el metodo createUsuario ----------
+2024-10-07 20:42:55 INFO  class:24 - Usuario creado: Usuario(id=1, nombre=Juan Manuel, email=jj@aaa.es)
+2024-10-07 20:42:55 TRACE class:25 - salimos de createUsuario -------
+2024-10-07 20:42:55 TRACE class:17 - Entramos en el metodo createUsuario ----------
+2024-10-07 20:42:55 INFO  class:24 - Usuario creado: Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com)
+2024-10-07 20:42:55 TRACE class:25 - salimos de createUsuario -------
+2024-10-07 20:42:55 TRACE class:30 - Entramos en get User------
+2024-10-07 20:42:55 DEBUG class:36 - Usuario obtenido Usuario(id=1, nombre=Juan Manuel, email=jj@aaa.es) 
+2024-10-07 20:42:55 TRACE class:38 - Salimos de get User------
+2024-10-07 20:42:55 TRACE class:30 - Entramos en get User------
+2024-10-07 20:42:55 DEBUG class:36 - Usuario obtenido Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com) 
+2024-10-07 20:42:55 TRACE class:38 - Salimos de get User------
+2024-10-07 20:42:55 TRACE class:44 - Entramos en update User------
+2024-10-07 20:42:55 INFO  class:52 - Usuario updateado: Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es)
+2024-10-07 20:42:55 TRACE class:55 - salimos en update User------
+2024-10-07 20:42:55 TRACE class:44 - Entramos en update User------
+2024-10-07 20:42:55 ERROR class:47 - Usuario con id 3 no encontrado
+2024-10-07 20:42:55 TRACE class:48 - salimos en update User------
+2024-10-07 20:42:55 TRACE class:60 - Entramos en delete user --------
+2024-10-07 20:42:55 INFO  class:66 - Usuario borrado Usuario(id=2, nombre=Pedro lopez, email=pedro@a23.com) 
+2024-10-07 20:42:55 TRACE class:69 - salimos en delete user --------
+2024-10-07 20:42:55 TRACE class:60 - Entramos en delete user --------
+2024-10-07 20:42:55 ERROR class:63 - Usuario con id 3 no encontrado
+2024-10-07 20:42:55 TRACE class:69 - salimos en delete user --------
+2024-10-07 20:42:55 TRACE class:30 - Entramos en get User------
+2024-10-07 20:42:55 DEBUG class:36 - Usuario obtenido Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es) 
+2024-10-07 20:42:55 TRACE class:38 - Salimos de get User------
+2024-10-07 20:42:55 INFO  Main:30 - VEmos el cambio Usuario(id=1, nombre=Perro Antonio, email=perro@aa.es)
+2024-10-07 20:42:55 INFO  Main:31 - app finalizada.
+2024-10-07 20:43:33 ERROR class:47 - Usuario con id 3 no encontrado
+2024-10-07 20:43:33 ERROR class:63 - Usuario con id 3 no encontrado
+2024-10-07 20:44:35 ERROR class:47 - Usuario con id 3 no encontrado
+2024-10-07 20:44:35 ERROR class:63 - Usuario con id 3 no encontrado
